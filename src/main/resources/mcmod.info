@@ -1,0 +1,16 @@
+[
+{
+  "modid": "simple_xp_storage",
+  "name": "Simple XP Storage",
+  "description": "Provides a simple and straightforward XP storage system using Mana Crystals.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Dark_Lizzy"],
+  "credits": "",
+  "logoFile": "simple_xp_storage_logo.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
